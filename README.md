@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  YOLO V8 model<br>👯 I’m looking to collaborate on Computer Vision<br>🤝 I’m looking for help with All of my Fellow and sharing my Repo<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about anything related to AI<br>⚡ Fun fact
+<!--🔭 I’m currently working on  YOLO V8 model<br>👯 I’m looking to collaborate on Computer Vision<br>🤝 I’m looking for help with All of my Fellow and sharing my Repo<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about anything related to AI<br>⚡ Fun fact -->
 
 
 ## 🌐 Socials:
