@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 <!--🔭 I’m currently working on  YOLO V8 model<br>👯 I’m looking to collaborate on Computer Vision<br>🤝 I’m looking for help with All of my Fellow and sharing my Repo<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about anything related to AI<br>⚡ Fun fact -->
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abuzarkhaaan)
 [![Medium](https://img.shields.io/badge/Medium-000000.svg?logo=medium&logoColor=white)](https://medium.com/@abuzarkhaaan)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/abuzarkhaaan)
@@ -10,7 +10,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB.svg?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Abuzar-Khan-9)
 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -29,7 +29,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abuzarkhaaan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abuzarkhaaan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abuzarkhaaan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
